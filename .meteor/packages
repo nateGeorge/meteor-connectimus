@@ -6,8 +6,12 @@
 
 meteor-platform
 autopublish
-insecure
 mizzao:bootstrap-3
 msavin:mongol
 aldeed:autoform
 aldeed:collection2
+iron:router
+accounts-password
+ian:accounts-ui-bootstrap-3
+accounts-google
+accounts-facebook
